@@ -1,10 +1,12 @@
 /* Main JavaScript file */
 
 /*
-        Author:       Hina Patel (StuentID: 821021425)
-        File Name:    app.js
-        Description:  Java Script file for COMP 125- Lab 3 web application. 
-        Link:
+        FileName      ::  app.js
+        @author       ::  Hina Patel 
+        @date         ::  June 10, 2016
+        StuentID      ::  821021425        
+        website       ::  http://comp125-s2016-lab3.azurewebsites.net  
+        @description  ::  Java Script file for COMP 125 - Lab 3 web application. 
 */
 
 // IIFE - Immediately Invoked Function Expression
